@@ -37,20 +37,6 @@ Whether you’re a beginner or a pro — this is your place to build the **futur
 
 ---
 
-## 🎥 Learn AI in Nepali (YouTube)
-
-We publish free, beginner-friendly videos on AI, Python, NLP, and more – **in Nepali**.
-
-📺 [Subscribe to AINepal](https://youtube.com/@ainepal)
-
-Topics include:
-- What is AI? (Nepali explainers)
-- Build your first chatbot
-- Nepali speech recognition
-- Optical Character Recognition (OCR) for Devanagari
-- Machine translation and NLP
-
----
 
 ## 📁 Repository Structure
 
