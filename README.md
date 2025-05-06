@@ -81,23 +81,6 @@ Topics include:
 | Translation Model | `translator/nepali_translation.py` | 🔜 |
 | Chatbot with Nepali NLU | `chatbot/nepali_chatbot.py` | 🔜 |
 
-## 🛠️ Requirements
-
-Most projects use:
-
-- Python 3.8+
-- Jupyter Notebooks
-- Hugging Face Transformers
-- SpeechRecognition / TTS libs
-- TensorFlow or PyTorch
-
-You can install dependencies with:
-
-```bash
-pip install -r requirements.txt
-````
-
-*(Coming soon: Full environment.yml and Docker support)*
 
 ## 🤝 Contributing
 
