@@ -15,6 +15,48 @@ This repository will include:
 - Code from tutorial videos (YouTube: [AINepal Channel](https://youtube.com/@ainepal))
 - Nepali language AI tools and datasets
 - Useful scripts, notebooks, and demo projects
+<h1 align="center">
+  🇳🇵 AINepal – AI for Nepal, in Nepali
+</h1>
+
+<p align="center">
+  <b>Open-source tools and tutorials to make Artificial Intelligence accessible to everyone in Nepal</b>
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/@ainepal"><img src="https://img.shields.io/badge/YouTube-AINepal-red?logo=youtube&style=flat-square" /></a>
+  <a href="https://github.com/pradipchaudhary/ainepal"><img src="https://img.shields.io/github/stars/pradipchaudhary/ainepal?style=flat-square" /></a>
+  <a href="https://github.com/pradipchaudhary/ainepal/issues"><img src="https://img.shields.io/github/issues/pradipchaudhary/ainepal?style=flat-square" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/pradipchaudhary/ainepal?style=flat-square" /></a>
+</p>
+
+---
+
+## 🚀 What is AINepal?
+
+**AINepal** is a hybrid open-source and media project aimed at:
+- Teaching **AI/ML, Python, and coding** in Nepali
+- Building **Nepali-language AI tools** like OCR, chatbots, and STT
+- Creating a community of Nepali developers, students, and AI learners
+
+Whether you’re a beginner or a pro — this is your place to build the **future of Nepali AI**.
+
+---
+
+## 🎥 Learn AI in Nepali (YouTube)
+
+We publish free, beginner-friendly videos on AI, Python, NLP, and more – **in Nepali**.
+
+📺 [Subscribe to AINepal](https://youtube.com/@ainepal)
+
+Topics include:
+- What is AI? (Nepali explainers)
+- Build your first chatbot
+- Nepali speech recognition
+- Optical Character Recognition (OCR) for Devanagari
+- Machine translation and NLP
+
+---
 
 ## 📁 Repository Structure
 
@@ -109,4 +151,10 @@ Stay connected:
 * 🌍 Website: *coming soon*
 
 ```
+## 🌐 Stay Connected
+
+* 📺 YouTube: [youtube.com/@ainepal](https://youtube.com/@ainepal)
+* 📧 Email: [pradipchd@gmail.com](mailto:hire.pradipc@gmail.com)
+* 🌍 Website: *coming soon*
+* 💬 Community: *Discord/Facebook coming soon*
 
