@@ -1,5 +1,5 @@
 
-# ainepal 🇳🇵🤖
+# ainepal 🤖
 
 Welcome to **AINepal** – an open-source initiative focused on democratizing Artificial Intelligence and Machine Learning for Nepal. Our mission is to make AI accessible, educational, and impactful for Nepali communities through code, content, and collaboration.
 
@@ -38,25 +38,6 @@ Whether you’re a beginner or a pro — this is your place to build the **futur
 ---
 
 
-## 📁 Repository Structure
-
-```
-
-ainepal/
-│
-├── data/                # Sample datasets (text, audio, etc.)
-├── notebooks/           # Jupyter notebooks from YouTube tutorials
-├── models/              # Pretrained/fine-tuned models (if any)
-├── ocr/                 # Nepali OCR tools or scripts
-├── speech/              # Speech-to-text or text-to-speech tools
-├── translator/          # Translation and NLP scripts
-├── chatbot/             # Chatbot examples and code
-├── LICENSE
-└── README.md
-
-````
-
-> ⚠️ This structure will evolve as we grow. Contributions and ideas are welcome!
 
 ## 📺 YouTube Channel
 
