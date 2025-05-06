@@ -1,5 +1,5 @@
 
-# AINepal 🇳🇵🤖
+# ainepal 🇳🇵🤖
 
 Welcome to **AINepal** – an open-source initiative focused on democratizing Artificial Intelligence and Machine Learning for Nepal. Our mission is to make AI accessible, educational, and impactful for Nepali communities through code, content, and collaboration.
 
