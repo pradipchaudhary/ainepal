@@ -91,14 +91,14 @@ Whether you're a student, developer, or teacher — you're part of the AI future
 Stay connected:
 
 * 📺 YouTube: [AINepal Channel](https://youtube.com/@ainepal)
-* 📧 Email: [pradipchd@gmail.com](mailto:pradipchd@gmail.com)
+* 📧 Email: [hire.pradipc@gmail.com](mailto:hire.pradipc@gmail.com)
 * 🌍 Website: *coming soon*
 
 
 ## 🌐 Stay Connected
 
 * 📺 YouTube: [youtube.com/@ainepal](https://youtube.com/@ainepal)
-* 📧 Email: [pradipchd@gmail.com](mailto:hire.pradipc@gmail.com)
+* 📧 Email: [hire.pradipc@gmail.com](mailto:hire.pradipc@gmail.com)
 * 🌍 Website: *coming soon*
 * 💬 Community: *Discord/Facebook coming soon*
 
