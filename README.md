@@ -94,7 +94,7 @@ Stay connected:
 * 📧 Email: [pradipchd@gmail.com](mailto:pradipchd@gmail.com)
 * 🌍 Website: *coming soon*
 
-```
+
 ## 🌐 Stay Connected
 
 * 📺 YouTube: [youtube.com/@ainepal](https://youtube.com/@ainepal)
