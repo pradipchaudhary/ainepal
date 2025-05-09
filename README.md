@@ -43,7 +43,7 @@ Whether you’re a beginner or a pro — this is your place to build the **futur
 
 We publish regular videos explaining AI, tech, and programming in Nepali.
 
-🔗 [Watch now on YouTube →](https://youtube.com/@ainepal)
+🔗 [Watch now on YouTube →](https://youtube.com/@ainepalofficial)
 
 Topics include:
 - What is AI?
@@ -90,14 +90,14 @@ Whether you're a student, developer, or teacher — you're part of the AI future
 
 Stay connected:
 
-* 📺 YouTube: [AINepal Channel](https://youtube.com/@ainepal)
+* 📺 YouTube: [AINepal Channel](https://youtube.com/@ainepalofficial)
 * 📧 Email: [hire.pradipc@gmail.com](mailto:hire.pradipc@gmail.com)
 * 🌍 Website: *coming soon*
 
 
 ## 🌐 Stay Connected
 
-* 📺 YouTube: [youtube.com/@ainepal](https://youtube.com/@ainepal)
+* 📺 YouTube: [youtube.com/@ainepal](https://youtube.com/@ainepalofficial)
 * 📧 Email: [hire.pradipc@gmail.com](mailto:hire.pradipc@gmail.com)
 * 🌍 Website: *coming soon*
 * 💬 Community: *Discord/Facebook coming soon*
