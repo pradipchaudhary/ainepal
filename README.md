@@ -19,7 +19,7 @@ AINepal is a hybrid platform that combines:
 - A growing **community of learners, developers, and creators** from Nepal.
 
 This repository will include:
-- Code from tutorial videos (YouTube: [AINepal Channel](https://youtube.com/@ainepalofficial))
+- Code from tutorial videos (YouTube: [ainepal Channel](https://youtube.com/@ainepalofficial))
 - Nepali language AI tools and datasets
 - Useful scripts, notebooks, and demo projects
 
