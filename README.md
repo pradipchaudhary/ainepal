@@ -4,7 +4,7 @@
 Welcome to **AINepal** – an open-source initiative focused on democratizing Artificial Intelligence and Machine Learning for Nepal. Our mission is to make AI accessible, educational, and impactful for Nepali communities through code, content, and collaboration.
 
 <p align="center">
-  <a href="https://youtube.com/@ainepal"><img src="https://img.shields.io/badge/YouTube-AINepal-red?logo=youtube&style=flat-square" /></a>
+  <a href="https://youtube.com/@ainepalofficial"><img src="https://img.shields.io/badge/YouTube-AINepal-red?logo=youtube&style=flat-square" /></a>
   <a href="https://github.com/pradipchaudhary/ainepal"><img src="https://img.shields.io/github/stars/pradipchaudhary/ainepal?style=flat-square" /></a>
   <a href="https://github.com/pradipchaudhary/ainepal/issues"><img src="https://img.shields.io/github/issues/pradipchaudhary/ainepal?style=flat-square" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/pradipchaudhary/ainepal?style=flat-square" /></a>
@@ -19,7 +19,7 @@ AINepal is a hybrid platform that combines:
 - A growing **community of learners, developers, and creators** from Nepal.
 
 This repository will include:
-- Code from tutorial videos (YouTube: [AINepal Channel](https://youtube.com/@ainepal))
+- Code from tutorial videos (YouTube: [AINepal Channel](https://youtube.com/@ainepalofficial))
 - Nepali language AI tools and datasets
 - Useful scripts, notebooks, and demo projects
 
