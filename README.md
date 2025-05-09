@@ -84,15 +84,17 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-## 🙏 Thank You!
-
-Whether you're a student, developer, or teacher — you're part of the AI future of Nepal. Dhanyabad 🙏
-
-
 ## 🌐 Stay Connected
 
 * 📺 YouTube: [youtube.com/@ainepal](https://youtube.com/@ainepalofficial)
 * 📧 Email: [hire.pradipc@gmail.com](mailto:hire.pradipc@gmail.com)
 * 🌍 Website: *coming soon*
 * 💬 Community: *Discord/Facebook coming soon*
+
+
+
+## 🙏 Thank You!
+
+Whether you're a student, developer, or teacher — you're part of the AI future of Nepal. Dhanyabad 🙏
+
 
