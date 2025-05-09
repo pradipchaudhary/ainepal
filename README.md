@@ -88,12 +88,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 Whether you're a student, developer, or teacher — you're part of the AI future of Nepal. Dhanyabad 🙏
 
-Stay connected:
-
-* 📺 YouTube: [AINepal Channel](https://youtube.com/@ainepalofficial)
-* 📧 Email: [hire.pradipc@gmail.com](mailto:hire.pradipc@gmail.com)
-* 🌍 Website: *coming soon*
-
 
 ## 🌐 Stay Connected
 
