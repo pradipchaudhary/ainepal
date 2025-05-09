@@ -82,7 +82,6 @@ To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
----
 
 ## 🌐 Stay Connected
 
@@ -92,9 +91,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 * 💬 Community: *Discord/Facebook coming soon*
 
 
+ ## 🙏 Thank You!
 
-## 🙏 Thank You!
-
-Whether you're a student, developer, or teacher — you're part of the AI future of Nepal. Dhanyabad 🙏
+ Whether you're a student, developer, or teacher — you're part of the AI future of Nepal. Dhanyabad 🙏
 
 
