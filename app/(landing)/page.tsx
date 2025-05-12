@@ -6,14 +6,14 @@ export default function HomePage() {
             {/* Hero Section */}
             <section className="max-w-7xl mx-auto px-6 py-32 text-center relative">
                 <h1 className="text-6xl md:text-7xl font-extrabold text-gray-900 leading-tight mb-6 drop-shadow-sm">
-                    🤖 AI NepalF
+                    🤖 AI Nepal
                 </h1>
                 <p className="text-2xl text-gray-600 max-w-2xl mx-auto mb-10">
                     Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
                 </p>
                 <div className="flex justify-center gap-5">
                     <ButtonLink
-                        href="https://github.com/pradipchaudhary/ainepalf"
+                        href="https://github.com/pradipchaudhary/ainepal"
                         label="Get Started"
                         variant="primary"
                         icon={<ArrowRight size={18} />}
@@ -22,6 +22,7 @@ export default function HomePage() {
                         href="https://youtube.com/@ainepalofficial"
                         label="Watch on YouTube"
                         variant="secondary"
+
                     />
                 </div>
             </section>
@@ -44,7 +45,7 @@ export default function HomePage() {
 
             {/* Footer */}
             <footer className="text-center py-10 text-gray-500 text-sm">
-                © 2025 AI NepalF. Crafted with ❤️ in Nepal.
+                © 2025 AI Nepal. Crafted with ❤️ in Nepal.
             </footer>
         </main>
     );
