@@ -1,5 +1,5 @@
 
-# 🤖 AINepalF – Building Nepal's AI Future
+# 🤖 AINepal – Building Nepal's AI Future
 
 Welcome to **AINepalF**, an open-source initiative dedicated to making Artificial Intelligence and Machine Learning **accessible**, **educational**, and **impactful** for everyone in Nepal.
 
@@ -64,18 +64,6 @@ We publish **easy-to-understand tutorials** in Nepali:
 
 ---
 
-## 📦 Repository Structure
-
-```markdown
-
-ainepalf/
-├── datasets/
-├── models/
-├── tools/
-├── examples/
-└── README.md
-
-```
 
 ## 🌟 Support & Community
 
