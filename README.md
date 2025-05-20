@@ -9,7 +9,7 @@ Welcome to **AINepalF**, an open-source initiative dedicated to making Artificia
   <a href="https://github.com/pradipchaudhary/ainepalf/issues"><img src="https://img.shields.io/github/issues/pradipchaudhary/ainepalf?style=flat-square" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/pradipchaudhary/ainepalf?style=flat-square" /></a>
 </p>
-![Banner](banner.png)
+![Banner](./banner.png)
 
 ---
 
