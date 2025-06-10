@@ -2,13 +2,6 @@
 
 **AINepal** is a visionary platform dedicated to building a future where **Artificial Intelligence (AI)** is accessible and understandable for every Nepali. We believe in spreading **awareness, education, and inspiration** through engaging content and practical insights.
 
-<p align="center">
-  <a href="https://youtube.com/@ainepalofficial"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-square" /></a>
-  <a href="https://github.com/pradipchaudhary/ainepalf"><img src="https://img.shields.io/github/stars/pradipchaudhary/ainepalf?style=flat-square" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/pradipchaudhary/ainepalf?style=flat-square" /></a>
-</p>
-
----
 
 ## 🎯 What is AINepal?
 
@@ -47,30 +40,6 @@ Our **YouTube channel** creates informative and beginner-friendly videos in the 
 - 📘 Beginner-friendly AI roadmaps
 - 🌱 Community Discord & Collaboration space
 
----
-
-## 🤝 How You Can Help
-
-- ⭐ Star this repository
-- 🗣️ Share our YouTube videos
-- 💡 Suggest video topics or AI ideas
-- 📬 Connect with us to collaborate
-
----
-
-## 📬 Connect With Us
-
-- 📺 YouTube: [AINepal Channel](https://youtube.com/@ainepalofficial)
-- 📧 Email: [hire.pradipc@gmail.com](mailto:hire.pradipc@gmail.com)
-- 🌐 Website: *Coming Soon*
-- 💬 Community: *Coming Soon*
-
----
-
-## 👤 Creator
-
-**Pradip Chaudhary**  
-[GitHub](https://github.com/pradipchaudhary) • [LinkedIn](https://linkedin.com/in/pradipchaudhary) • [Twitter](https://twitter.com/pradipchau)
 
 ---
 
