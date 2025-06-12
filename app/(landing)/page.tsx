@@ -14,12 +14,7 @@ export default function HomePage() {
                     Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center gap-4">
-                    <ButtonLink
-                        href="https://github.com/pradipchaudhary/ainepal"
-                        label="Get Started"
-                        variant="primary"
-                        icon={<ArrowRight size={18} />}
-                    />
+                   
                     <ButtonLink
                         href="https://youtube.com/@ainepalofficial"
                         label="Watch on YouTube"
