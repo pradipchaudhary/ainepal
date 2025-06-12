@@ -5,7 +5,7 @@ export default function HomePage() {
         <main className="min-h-screen bg-gradient-to-br from-white via-gray-100 to-gray-200 text-gray-800 font-sans">
             {/* Hero Section */}
             <section className="max-w-4xl mx-auto px-4 sm:px-6 py-24 text-center">
-               <img
+                <img
                     src="/ainepal-logo.png"
                     alt="AI Nepal Logo"
                     className="mx-auto w-32 h-32 mb-6"
@@ -14,11 +14,11 @@ export default function HomePage() {
                     Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center gap-4">
-                   
                     <ButtonLink
                         href="https://youtube.com/@ainepalofficial"
                         label="Watch on YouTube"
                         variant="primary"
+                        icon={<ArrowRight className="w-4 h-4" />}
                     />
                 </div>
             </section>
@@ -37,6 +37,52 @@ export default function HomePage() {
                     title="Community Driven"
                     description="Join a growing community of AI developers, creators, and learners from Nepal."
                 />
+            </section>
+
+            {/* Featured Video */}
+            <section className="max-w-4xl mx-auto px-4 sm:px-6 py-16">
+                <h2 className="text-2xl sm:text-3xl font-bold text-center mb-8">📺 Featured Video</h2>
+                <div className="aspect-w-16 aspect-h-9 rounded-xl overflow-hidden shadow-lg">
+                    <iframe
+                        src="https://www.youtube.com/embed/Ws5a_GGdl2Y"
+                        title="Featured AiNepal Video"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                        className="w-full h-full"
+                    ></iframe>
+                </div>
+                <p className="mt-6 text-center text-gray-600 max-w-2xl mx-auto">
+                    Learn how to secure your digital life in Nepal with our step-by-step cyber awareness guide. More videos like this on our YouTube channel!
+                </p>
+            </section>
+
+            {/* Shorts Section */}
+            <section className="max-w-6xl mx-auto px-4 sm:px-6 py-16">
+                <h2 className="text-2xl sm:text-3xl font-bold text-center mb-10">⏱ 30-Second Knowledge Shorts</h2>
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
+                    {[
+                        'https://www.youtube.com/embed/videolink1',
+                        'https://www.youtube.com/embed/videolink2',
+                        'https://www.youtube.com/embed/videolink3',
+                        'https://www.youtube.com/embed/videolink4',
+                    ].map((src, index) => (
+                        <div
+                            key={index}
+                            className="aspect-w-9 aspect-h-16 rounded-lg overflow-hidden shadow-md"
+                        >
+                            <iframe
+                                src={src}
+                                title={`Short ${index + 1}`}
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowFullScreen
+                                className="w-full h-full"
+                            ></iframe>
+                        </div>
+                    ))}
+                </div>
+                <p className="mt-8 text-center text-gray-600">
+                    Explore our YouTube Shorts for fast, useful knowledge — explained in Nepali and easy to digest.
+                </p>
             </section>
 
             {/* Footer */}
