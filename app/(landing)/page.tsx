@@ -10,9 +10,6 @@ export default function HomePage() {
                     alt="AI Nepal Logo"
                     className="mx-auto w-20 h-20 mb-6"
                 />
-                <h1 className="text-5xl sm:text-6xl font-extrabold text-gray-900 mb-4 leading-tight tracking-tight">
-                    ainepal
-                </h1>
                 <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
                     Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
                 </p>
