@@ -5,10 +5,10 @@ export default function HomePage() {
         <main className="min-h-screen bg-gradient-to-br from-white via-gray-100 to-gray-200 text-gray-800 font-sans">
             {/* Hero Section */}
             <section className="max-w-4xl mx-auto px-4 sm:px-6 py-24 text-center">
-                <img
+               <img
                     src="/ainepal-logo.jpg"
                     alt="AI Nepal Logo"
-                    className="mx-auto w-20 h-20 mb-6"
+                    className="mx-auto w-32 h-32 mb-6"
                 />
                 <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
                     Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
