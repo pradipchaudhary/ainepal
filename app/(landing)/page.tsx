@@ -1,4 +1,5 @@
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Facebook, Instagram, Linkedin, Music2 } from 'lucide-react';
+
 
 export default function HomePage() {
     return (
@@ -23,6 +24,8 @@ export default function HomePage() {
                 </div>
             </section>
 
+
+
             {/* Features Section */}
             <section className="max-w-5xl mx-auto px-4 sm:px-6 py-20 grid md:grid-cols-3 gap-8">
                 <FeatureCard
@@ -41,54 +44,123 @@ export default function HomePage() {
 
             {/* Featured Video */}
             <section className="max-w-4xl mx-auto px-4 sm:px-6 py-16">
-                <h2 className="text-2xl sm:text-3xl font-bold text-center mb-8">📺 Featured Video</h2>
-                <div className="aspect-w-16 aspect-h-9 rounded-xl overflow-hidden shadow-lg">
+                <div className="rounded-xl overflow-hidden shadow-lg max-w-4xl mx-auto" style={{ height: '480px' }}>
                     <iframe
-                        src="https://www.youtube.com/embed/Ws5a_GGdl2Y"
-                        title="Featured AiNepal Video"
+                        src="https://www.youtube.com/embed/IbmKG7VUwZo"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
                         className="w-full h-full"
                     ></iframe>
                 </div>
-                <p className="mt-6 text-center text-gray-600 max-w-2xl mx-auto">
-                    Learn how to secure your digital life in Nepal with our step-by-step cyber awareness guide. More videos like this on our YouTube channel!
-                </p>
             </section>
 
-            {/* Shorts Section */}
-            <section className="max-w-6xl mx-auto px-4 sm:px-6 py-16">
-                <h2 className="text-2xl sm:text-3xl font-bold text-center mb-10">⏱ 30-Second Knowledge Shorts</h2>
-                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
-                    {[
-                        'https://www.youtube.com/embed/videolink1',
-                        'https://www.youtube.com/embed/videolink2',
-                        'https://www.youtube.com/embed/videolink3',
-                        'https://www.youtube.com/embed/videolink4',
-                    ].map((src, index) => (
-                        <div
-                            key={index}
-                            className="aspect-w-9 aspect-h-16 rounded-lg overflow-hidden shadow-md"
-                        >
-                            <iframe
-                                src={src}
-                                title={`Short ${index + 1}`}
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowFullScreen
-                                className="w-full h-full"
-                            ></iframe>
-                        </div>
-                    ))}
+
+            {/* YouTube Shorts Section */}
+            <section className="max-w-6xl mx-auto px-4 py-16">
+                <h2 className="text-2xl sm:text-3xl font-semibold text-center mb-10 text-gray-800">
+                    🎬 Latest AI Nepal Shorts
+                </h2>
+
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                    {/* Short 1 */}
+                    <div className="w-full h-[420px] sm:h-[500px] rounded-xl overflow-hidden shadow-md">
+                        <iframe
+                            src="https://www.youtube.com/embed/SHORT_VIDEO_ID_1"
+                            title="AI Nepal Short Video 1"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                            className="w-full h-full"
+                        />
+                    </div>
+
+                    {/* Short 2 */}
+                    <div className="w-full h-[420px] sm:h-[500px] rounded-xl overflow-hidden shadow-md">
+                        <iframe
+                            src="https://www.youtube.com/embed/SHORT_VIDEO_ID_2"
+                            title="AI Nepal Short Video 2"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                            className="w-full h-full"
+                        />
+                    </div>
+
+                    {/* Short 3 */}
+                    <div className="w-full h-[420px] sm:h-[500px] rounded-xl overflow-hidden shadow-md">
+                        <iframe
+                            src="https://www.youtube.com/embed/SHORT_VIDEO_ID_3"
+                            title="AI Nepal Short Video 3"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                            className="w-full h-full"
+                        />
+                    </div>
                 </div>
-                <p className="mt-8 text-center text-gray-600">
-                    Explore our YouTube Shorts for fast, useful knowledge — explained in Nepali and easy to digest.
-                </p>
+
+                <div className="text-center mt-12">
+                    <a
+                        href="https://youtube.com/@ainepalofficial/shorts"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-red-600 hover:bg-red-700 text-white font-medium py-2 px-6 rounded-full transition"
+                    >
+                        View More Shorts on YouTube
+                    </a>
+                </div>
             </section>
+
+
+
+
 
             {/* Footer */}
-            <footer className="text-center py-8 text-gray-500 text-sm border-t border-gray-200">
-                © 2025 AI Nepal. Crafted with ❤️ in Nepal.
+            <footer className="mt-24 border-t border-gray-200 bg-white py-12 text-gray-600">
+                <div className="max-w-6xl mx-auto px-4 text-center space-y-6">
+                    <div className="flex justify-center gap-6 text-gray-500 text-sm sm:text-base flex-wrap">
+                        <a
+                            href="https://instagram.com/ainepal_official"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-pink-500 transition flex items-center gap-1"
+                            aria-label="Instagram"
+                        >
+                            <Instagram className="w-5 h-5" /> Instagram
+                        </a>
+                        <a
+                            href="https://facebook.com/ainepallearning"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-blue-600 transition flex items-center gap-1"
+                            aria-label="Facebook"
+                        >
+                            <Facebook className="w-5 h-5" /> Facebook
+                        </a>
+                        <a
+                            href="https://tiktok.com/@ainepalshorts"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-black transition flex items-center gap-1"
+                            aria-label="TikTok"
+                        >
+                            <Music2 className="w-5 h-5" /> TikTok
+                        </a>
+                        <a
+                            href="https://linkedin.com/company/ainepal-learning"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-blue-700 transition flex items-center gap-1"
+                            aria-label="LinkedIn"
+                        >
+                            <Linkedin className="w-5 h-5" /> LinkedIn
+                        </a>
+                    </div>
+
+                    <p className="text-sm text-gray-500">
+                        © {new Date().getFullYear()} <span className="font-semibold text-gray-800">AiNepal</span> — Made with <span aria-label="love" role="img">❤️</span> for Nepali learners.
+                    </p>
+                </div>
             </footer>
+
+
         </main>
     );
 }
