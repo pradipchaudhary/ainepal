@@ -1,104 +1,92 @@
-<p align="center">
-  <a href="https://youtube.com/@ainepalofficial"><img src="https://img.shields.io/badge/YouTube-AINepal-red?logo=youtube&style=flat-square" /></a>
-  <a href="https://github.com/pradipchaudhary/ainepalf"><img src="https://img.shields.io/github/stars/pradipchaudhary/ainepalf?style=flat-square" /></a>
-  <a href="https://github.com/pradipchaudhary/ainepalf/issues"><img src="https://img.shields.io/github/issues/pradipchaudhary/ainepalf?style=flat-square" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/pradipchaudhary/ainepalf?style=flat-square" /></a>
-</p>
-![Banner](./banner.png)
+# 🇳🇵 AiNepal – Learn | Aware | Grow
+
+Welcome to **AiNepal**, a Nepali YouTube channel on a mission to **empower everyday people through knowledge, awareness, and practical life skills**. We create simplified, impactful videos to help you live a smarter, safer, and more informed life in Nepal.
 
 ---
 
-## 🌟 Our Mission
+## 🚀 Mission
 
-At **AINepalF**, we believe that **AI should be for everyone** — not just big tech companies or researchers in Silicon Valley.
-
-Our vision is to **democratize AI in Nepal** by:
-
-- 🌐 Developing open-source AI tools tailored for the **Nepali language and context**.
-- 📚 Providing educational resources in **Nepali**, covering Python, ML, and AI.
-- 👥 Creating a **supportive community** of learners, creators, and collaborators.
+> **To simplify learning, promote awareness, and deliver useful information that helps Nepali people make better decisions and lead easier lives.**
 
 ---
 
-## 🚀 What We Offer
+## 🎯 What We Offer
 
-### 🔧 AI Tools for Nepal
-- Nepali **OCR (Optical Character Recognition)**.
-- **Speech-to-Text** models for local languages.
-- Nepali **Chatbots**, **NLU**, and **NLP** tools.
-- Tools to help build **inclusive digital ecosystems**.
+AiNepal is your **digital learning companion** – built for everyday Nepali users, students, and working professionals.
 
-### 🎓 Learn on YouTube
-We publish **easy-to-understand tutorials** in Nepali:
-
-- 🔍 Introduction to AI & ML in Nepali.
-- 🐍 Python for Beginners.
-- 🗣️ Nepali Speech Recognition.
-- 🧾 OCR for Devanagari Script.
-- 🤖 Building Chatbots in Nepali.
-
-📺 **Watch & Subscribe** → [youtube.com/@ainepalofficial](https://youtube.com/@ainepalofficial)
+### 🧠 Our Content Includes:
+- **Digital Learning:** eSewa, Khalti, mobile banking, email setup, Google tools, etc.
+- **Public Awareness:** Cyber security, scams, health & hygiene, government rights.
+- **Informative Videos:** Government schemes, daily tech hacks, jobs, finance tips.
+- **Shorts & Reels:** 30–60 second videos with quick and powerful knowledge.
 
 ---
 
-## 🌍 Use Cases
+## 📁 Categories & Themes
 
-- Natural Language Processing (NLP) for Nepali.
-- Chatbots and virtual assistants for Nepali users.
-- AI-driven business automation and local services.
-- AI in education, healthcare, and agriculture sectors.
-
----
-
-## 🛠 Technologies Used
-
-- Python
-- TensorFlow / PyTorch
-- Hugging Face Transformers
-- OpenAI GPT Models
-- LangChain (planned integration)
+| 🏷️ Category         | 🎥 Sample Topics |
+|---------------------|------------------|
+| **Smart Living**     | Pay bills online, QR code, online forms |
+| **Digital Nepal**    | NID card, Nagarik app, online passport |
+| **Awareness Hub**    | Cyber safety, online scams, first aid basics |
+| **Tech Simplified**  | Google tools, mobile settings, AI tools |
+| **Finance & Jobs**   | Saving tips, online jobs, resume tricks |
+| **Skills in 60s**    | Microlearning for modern skills (Shorts) |
 
 ---
 
+## 📅 Weekly Video Series
 
-## 🌟 Support & Community
-
-- ⭐ Star this repo to support the project.
-- 🗨️ Join discussions and suggest ideas or request features.
-- 🤝 Contribute AI models, datasets, or tools.
-- 🔗 Share the project to grow the AI Nepal community.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** – feel free to use, remix, and build on top of it.  
-See [`LICENSE`](./LICENSE) for details.
+| 📆 Series Name      | 🔍 Description |
+|---------------------|----------------|
+| **Smart Sunday**     | Tools & hacks for easier life |
+| **Tech Tuesday**     | Simplified tech tutorials in Nepali |
+| **Finance Friday**   | Money tips, digital wallets, job insights |
+| **Awareness Alert**  | Social & digital awareness topics |
+| **30-Second Knowledge** | Shorts packed with real value |
 
 ---
 
-## 📬 Connect With Us
+## 🌈 Branding Guide
 
-Stay updated, share ideas, and join our mission:
-
-- 📺 YouTube: [AINepal Channel](https://youtube.com/@ainepalofficial)
-- 📧 Email: [hire.pradipc@gmail.com](mailto:hire.pradipc@gmail.com)
-- 🌐 Website: *Coming Soon*
-- 💬 Community: *Discord/Facebook – launching soon*
-
----
-
-## 🙏 Thank You!
-
-Whether you're a **student**, **developer**, or **enthusiast** — you're part of the **AI movement in Nepal**.  
-Let's build something meaningful together.
-
-**धन्यवाद | Thank you | AI for All 🇳🇵**
+- **Logo:** Clean "ai" icon inside Nepal map or a glowing lightbulb
+- **Colors:**  
+  - `#1A73E8` (Blue) – Trust, Knowledge  
+  - `#34A853` (Green) – Growth, Awareness  
+  - `#FBBC05` (Yellow) – Curiosity, Energy
+- **Banner Text Example:**
+  > "🎓 Learn | 📢 Aware | 💡 Inform – Helping Nepal Live Smarter"
 
 ---
 
-## 👤 Created by
+## 🖼 Sample Video Titles
 
-**Pradip Chaudhary**  
-[GitHub](https://github.com/pradipchaudhary) • [LinkedIn](https://linkedin.com/in/pradipchaudhary) • [Twitter](https://twitter.com/pradipchau)
-```
+- “📱 eSewa मा KYC गर्ने तरिका – Step-by-Step”
+- “⚠️ साइबर अपराध बाट कसरी बच्ने?”
+- “💼 Freelancing सुरु कसरी गर्ने? नेपालमै!”
+- “📧 Gmail मा Undo Mail कसरी गर्ने?”
+- “🛂 NID, Nagarik App र सरकारका Digital सेवाहरू”
+
+---
+
+## 🔗 Social Media Presence
+
+Coming Soon — Stay Connected:
+
+- [ ] **YouTube:** [youtube.com/@ainepal](https://youtube.com/@ainepal)
+- [ ] **Instagram:** `@ainepal_official`
+- [ ] **Facebook:** `@ainepallearning`
+- [ ] **TikTok:** `@ainepalshorts`
+- [ ] **LinkedIn:** `AiNepal Learning`
+
+---
+
+## 🙌 Join the Movement
+
+We believe that a more informed society is a more powerful one. Through **AiNepal**, we aim to uplift our community with bite-sized, real-world knowledge that matters.
+
+> “**AiNepal – सजिलो सिकाइ, सजिलो जीवन।**”
+
+📌 Subscribe & Start Learning: [youtube.com/@ainepal](https://youtube.com/@ainepal)
+
+---
