@@ -6,12 +6,12 @@ export default function HomePage() {
             {/* Hero Section */}
             <section className="max-w-4xl mx-auto px-4 sm:px-6 py-24 text-center">
                 <img
-                    src="/logo.svg"
+                    src="/ainepal-logo.jpg"
                     alt="AI Nepal Logo"
                     className="mx-auto w-20 h-20 mb-6"
                 />
                 <h1 className="text-5xl sm:text-6xl font-extrabold text-gray-900 mb-4 leading-tight tracking-tight">
-                    🤖 AI Nepal
+                    ainepal
                 </h1>
                 <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
                     Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
