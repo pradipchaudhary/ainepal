@@ -2,33 +2,29 @@ import { ArrowRight } from 'lucide-react';
 
 export default function HomePage() {
     return (
-        <main className="min-h-screen bg-gradient-to-br from-white via-gray-100 to-gray-200 text-gray-800">
+        <main className="min-h-screen bg-gradient-to-br from-white via-gray-100 to-gray-200 text-gray-800 font-sans">
             {/* Hero Section */}
-            <section className="max-w-7xl mx-auto px-6 py-32 text-center relative">
-                <h1 className="text-6xl md:text-7xl font-extrabold text-gray-900 leading-tight mb-6 drop-shadow-sm">
-                    🤖 AI Nepal
-                </h1>
-                <p className="text-2xl text-gray-600 max-w-2xl mx-auto mb-10">
+            <section className="max-w-4xl mx-auto px-4 sm:px-6 py-24 text-center">
+               <img
+                    src="/ainepal-logo.png"
+                    alt="AI Nepal Logo"
+                    className="mx-auto w-32 h-32 mb-6"
+                />
+                <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
                     Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
                 </p>
-                <div className="flex justify-center gap-5">
-                    <ButtonLink
-                        href="https://github.com/pradipchaudhary/ainepal"
-                        label="Get Started"
-                        variant="primary"
-                        icon={<ArrowRight size={18} />}
-                    />
+                <div className="flex flex-col sm:flex-row justify-center gap-4">
+                   
                     <ButtonLink
                         href="https://youtube.com/@ainepalofficial"
                         label="Watch on YouTube"
-                        variant="secondary"
-
+                        variant="primary"
                     />
                 </div>
             </section>
 
-            {/* Features */}
-            <section className="max-w-6xl mx-auto px-6 py-20 grid md:grid-cols-3 gap-12">
+            {/* Features Section */}
+            <section className="max-w-5xl mx-auto px-4 sm:px-6 py-20 grid md:grid-cols-3 gap-8">
                 <FeatureCard
                     title="AI Tools for Nepal"
                     description="Open-source OCR, speech recognition, and chatbots designed for Nepali language and culture."
@@ -44,7 +40,7 @@ export default function HomePage() {
             </section>
 
             {/* Footer */}
-            <footer className="text-center py-10 text-gray-500 text-sm">
+            <footer className="text-center py-8 text-gray-500 text-sm border-t border-gray-200">
                 © 2025 AI Nepal. Crafted with ❤️ in Nepal.
             </footer>
         </main>
@@ -58,9 +54,9 @@ interface FeatureCardProps {
 
 function FeatureCard({ title, description }: FeatureCardProps) {
     return (
-        <div className="p-8 bg-white/80 backdrop-blur-lg rounded-3xl shadow-xl hover:shadow-2xl transition hover:scale-105 border border-gray-200">
-            <h3 className="text-3xl font-bold mb-4 text-gray-900">{title}</h3>
-            <p className="text-gray-600 text-lg">{description}</p>
+        <div className="p-6 bg-white rounded-2xl shadow-sm hover:shadow-md transition-all hover:scale-[1.02] border border-gray-200 text-left">
+            <h3 className="text-xl font-semibold mb-2 text-gray-900">{title}</h3>
+            <p className="text-gray-600 text-base leading-relaxed">{description}</p>
         </div>
     );
 }
@@ -74,13 +70,18 @@ interface ButtonLinkProps {
 
 function ButtonLink({ href, label, variant, icon }: ButtonLinkProps) {
     const base =
-        'px-8 py-4 font-semibold rounded-full shadow-lg flex items-center gap-2 transition hover:scale-105';
+        'inline-flex items-center justify-center gap-2 px-5 py-2.5 text-base font-medium rounded-full transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2';
     const variants = {
-        primary: 'bg-blue-600 hover:bg-blue-700 text-white',
-        secondary: 'bg-white hover:bg-gray-100 text-gray-800',
+        primary: 'bg-blue-600 text-white hover:bg-blue-700 focus:ring-blue-500',
+        secondary: 'bg-white text-gray-800 border border-gray-300 hover:bg-gray-100 focus:ring-gray-300',
     };
     return (
-        <a href={href} target="_blank" rel="noopener noreferrer" className={`${base} ${variants[variant]}`}>
+        <a
+            href={href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`${base} ${variants[variant]}`}
+        >
             {label} {icon}
         </a>
     );

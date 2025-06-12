@@ -1,18 +1,10 @@
-
-# 🤖 AINepal – Building Nepal's AI Future
-
-Welcome to **AINepalF**, an open-source initiative dedicated to making Artificial Intelligence and Machine Learning **accessible**, **educational**, and **impactful** for everyone in Nepal.
-
 <p align="center">
   <a href="https://youtube.com/@ainepalofficial"><img src="https://img.shields.io/badge/YouTube-AINepal-red?logo=youtube&style=flat-square" /></a>
   <a href="https://github.com/pradipchaudhary/ainepalf"><img src="https://img.shields.io/github/stars/pradipchaudhary/ainepalf?style=flat-square" /></a>
   <a href="https://github.com/pradipchaudhary/ainepalf/issues"><img src="https://img.shields.io/github/issues/pradipchaudhary/ainepalf?style=flat-square" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/pradipchaudhary/ainepalf?style=flat-square" /></a>
 </p>
-
-
-![Banner Alt Text](banner.png)
-
+![Banner](./banner.png)
 
 ---
 
