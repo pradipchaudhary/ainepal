@@ -6,7 +6,7 @@ export default function HomePage() {
             {/* Hero Section */}
             <section className="max-w-4xl mx-auto px-4 sm:px-6 py-24 text-center">
                <img
-                    src="/ainepal-logo.jpg"
+                    src="/ainepal-logo.png"
                     alt="AI Nepal Logo"
                     className="mx-auto w-32 h-32 mb-6"
                 />
