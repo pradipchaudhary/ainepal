@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "AI Nepal — Open AI Community & Tools for Nepal 🇳🇵",
     description: "AI Nepal is a community-driven platform providing Nepali AI tools, tutorials in Nepali, and resources to empower Nepal with Artificial Intelligence.",
     keywords: ["AI Nepal", "Nepali AI Tools", "Nepali Tutorials", "OCR Nepali", "Speech Recognition Nepal", "Nepali Chatbot", "Artificial Intelligence Nepal"],
-    authors: [{ name: "Pradip Chaudhary", url: "https://github.com/pradipchaudhary/ainepal" }],
+    authors: [{ name: "Pradip Chaudhary", url: "https://www.pradipchaudhary.com.np" }],
     openGraph: {
         title: "AI Nepal — AI Tools, Tutorials, and Community 🇳🇵",
         description: "Explore open-source Nepali OCR, chatbots, and AI courses — All in Nepali.",
