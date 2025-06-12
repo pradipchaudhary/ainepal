@@ -4,14 +4,19 @@ export default function HomePage() {
     return (
         <main className="min-h-screen bg-gradient-to-br from-white via-gray-100 to-gray-200 text-gray-800 font-sans">
             {/* Hero Section */}
-            <section className="max-w-6xl mx-auto px-6 py-28 text-center">
-                <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold text-gray-900 mb-6 leading-tight tracking-tight">
+            <section className="max-w-4xl mx-auto px-4 sm:px-6 py-24 text-center">
+                <img
+                    src="/logo.svg"
+                    alt="AI Nepal Logo"
+                    className="mx-auto w-20 h-20 mb-6"
+                />
+                <h1 className="text-5xl sm:text-6xl font-extrabold text-gray-900 mb-4 leading-tight tracking-tight">
                     🤖 AI Nepal
                 </h1>
-                <p className="text-lg sm:text-xl md:text-2xl text-gray-600 max-w-2xl mx-auto mb-10">
+                <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
                     Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
                 </p>
-                <div className="flex flex-wrap justify-center gap-4">
+                <div className="flex flex-col sm:flex-row justify-center gap-4">
                     <ButtonLink
                         href="https://github.com/pradipchaudhary/ainepal"
                         label="Get Started"
@@ -27,7 +32,7 @@ export default function HomePage() {
             </section>
 
             {/* Features Section */}
-            <section className="max-w-6xl mx-auto px-6 py-20 grid md:grid-cols-3 gap-10">
+            <section className="max-w-5xl mx-auto px-4 sm:px-6 py-20 grid md:grid-cols-3 gap-8">
                 <FeatureCard
                     title="AI Tools for Nepal"
                     description="Open-source OCR, speech recognition, and chatbots designed for Nepali language and culture."
@@ -57,8 +62,8 @@ interface FeatureCardProps {
 
 function FeatureCard({ title, description }: FeatureCardProps) {
     return (
-        <div className="p-6 md:p-8 bg-white rounded-2xl shadow hover:shadow-md transition hover:scale-[1.02] border border-gray-200">
-            <h3 className="text-2xl font-semibold mb-3 text-gray-900">{title}</h3>
+        <div className="p-6 bg-white rounded-2xl shadow-sm hover:shadow-md transition-all hover:scale-[1.02] border border-gray-200 text-left">
+            <h3 className="text-xl font-semibold mb-2 text-gray-900">{title}</h3>
             <p className="text-gray-600 text-base leading-relaxed">{description}</p>
         </div>
     );
@@ -73,7 +78,7 @@ interface ButtonLinkProps {
 
 function ButtonLink({ href, label, variant, icon }: ButtonLinkProps) {
     const base =
-        'inline-flex items-center justify-center gap-2 px-6 py-3 text-base font-medium rounded-full transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2';
+        'inline-flex items-center justify-center gap-2 px-5 py-2.5 text-base font-medium rounded-full transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2';
     const variants = {
         primary: 'bg-blue-600 text-white hover:bg-blue-700 focus:ring-blue-500',
         secondary: 'bg-white text-gray-800 border border-gray-300 hover:bg-gray-100 focus:ring-gray-300',
