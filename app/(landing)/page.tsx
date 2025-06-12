@@ -18,7 +18,7 @@ export default function HomePage() {
                     <ButtonLink
                         href="https://youtube.com/@ainepalofficial"
                         label="Watch on YouTube"
-                        variant="secondary"
+                        variant="primary"
                     />
                 </div>
             </section>
