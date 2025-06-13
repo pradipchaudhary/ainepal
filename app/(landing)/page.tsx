@@ -24,17 +24,6 @@ export default function HomePage() {
                 </div>
             </section>
 
-            {/* Featured Video */}
-            <section className="max-w-4xl mx-auto px-4 sm:px-6 py-16">
-                <div className="rounded-xl overflow-hidden shadow-lg max-w-4xl mx-auto" style={{ height: '480px' }}>
-                    <iframe
-                        src="https://www.youtube.com/embed/IbmKG7VUwZo"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen
-                        className="w-full h-full"
-                    ></iframe>
-                </div>
-            </section>
 
             {/* Features Section */}
             <section className="max-w-5xl mx-auto px-4 sm:px-6 py-20 grid md:grid-cols-3 gap-8">
@@ -52,7 +41,17 @@ export default function HomePage() {
                 />
             </section>
 
-            
+             {/* Featured Video */}
+            <section className="max-w-4xl mx-auto px-4 sm:px-6 py-16">
+                <div className="rounded-xl overflow-hidden shadow-lg max-w-4xl mx-auto" style={{ height: '480px' }}>
+                    <iframe
+                        src="https://www.youtube.com/embed/IbmKG7VUwZo"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                        className="w-full h-full"
+                    ></iframe>
+                </div>
+            </section>
 
 
             {/* Footer */}
