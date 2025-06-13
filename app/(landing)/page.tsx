@@ -12,7 +12,7 @@ export default function HomePage() {
                     className="mx-auto w-32 h-32 mb-6"
                 />
                 <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
-                    Unlocking the power of Artificial Intelligence for Nepal — Tools, Learning & Community for everyone 🇳🇵.
+                    To simplify learning, promote awareness, and deliver useful information that helps Nepali people make better decisions and lead easier lives.
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center gap-4">
                     <ButtonLink
