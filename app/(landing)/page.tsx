@@ -55,63 +55,6 @@ export default function HomePage() {
             </section>
 
 
-            {/* YouTube Shorts Section */}
-            <section className="max-w-6xl mx-auto px-4 py-16">
-                <h2 className="text-2xl sm:text-3xl font-semibold text-center mb-10 text-gray-800">
-                    🎬 Latest AI Nepal Shorts
-                </h2>
-
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-                    {/* Short 1 */}
-                    <div className="w-full h-[420px] sm:h-[500px] rounded-xl overflow-hidden shadow-md">
-                        <iframe
-                            src="https://www.youtube.com/embed/SHORT_VIDEO_ID_1"
-                            title="AI Nepal Short Video 1"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowFullScreen
-                            className="w-full h-full"
-                        />
-                    </div>
-
-                    {/* Short 2 */}
-                    <div className="w-full h-[420px] sm:h-[500px] rounded-xl overflow-hidden shadow-md">
-                        <iframe
-                            src="https://www.youtube.com/embed/SHORT_VIDEO_ID_2"
-                            title="AI Nepal Short Video 2"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowFullScreen
-                            className="w-full h-full"
-                        />
-                    </div>
-
-                    {/* Short 3 */}
-                    <div className="w-full h-[420px] sm:h-[500px] rounded-xl overflow-hidden shadow-md">
-                        <iframe
-                            src="https://www.youtube.com/embed/SHORT_VIDEO_ID_3"
-                            title="AI Nepal Short Video 3"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowFullScreen
-                            className="w-full h-full"
-                        />
-                    </div>
-                </div>
-
-                <div className="text-center mt-12">
-                    <a
-                        href="https://youtube.com/@ainepalofficial/shorts"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-block bg-red-600 hover:bg-red-700 text-white font-medium py-2 px-6 rounded-full transition"
-                    >
-                        View More Shorts on YouTube
-                    </a>
-                </div>
-            </section>
-
-
-
-
-
             {/* Footer */}
             <footer className="mt-24 border-t border-gray-200 bg-white py-12 text-gray-600">
                 <div className="max-w-6xl mx-auto px-4 text-center space-y-6">
