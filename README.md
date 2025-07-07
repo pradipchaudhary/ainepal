@@ -25,6 +25,11 @@ AiNepal is your **digital learning companion** – built for everyday Nepali use
 
 ---
 
+### 🌍 Vision
+ > "AI should be accessible to every community and every corner of the world — including the beautiful hills and valleys of Nepal."
+
+AI Nepal aims to bridge the gap between powerful AI tools and local needs — education, automation, content generation, and more — all while supporting the Nepali language and context.
+
 ## 🔗 Connect With Us
 
 Stay connected with our community across all platforms. (Coming Soon!)
