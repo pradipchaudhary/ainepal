@@ -1,6 +1,6 @@
 
 
-# AiNepal – Learn | Aware | Grow
+# ainepal
 
 Welcome to **AiNepal**, a Nepali YouTube channel on a mission to **empower everyday people through knowledge, awareness, and practical life skills**. We create simplified, impactful videos to help you live a smarter, safer, and more informed life in Nepal.
 
